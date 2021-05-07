@@ -21,8 +21,9 @@ Apart from offering the best tech stack suited to the user, we would provide a c
 ### Business Model:
 Our revenue sources to maintain and constantly update IdeaBot would be paid advertisements and user donations.
 ### Developed by🧑‍💼:
-- [Swarup Kharul](https://github.com/SwarupKharul)
+
 - [Neel Ghoshal](https://github.com/NeelGhoshal)
+- [Swarup Kharul](https://github.com/SwarupKharul)
 - [Divit Agrawal](https://github.com/Divit-Agrawal)
 - [Ishita Chauhan](https://github.com/ishizzz)
 
